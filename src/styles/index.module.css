@@ -1,0 +1,18 @@
+.headerStyle {
+    background-color: whitesmoke;
+    height: 100px;
+    padding: 30px 40px;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    /*font-family: "Times New Roman", Times, serif;*/
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+}
+
+.centeredContent {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-justify: auto;
+}
